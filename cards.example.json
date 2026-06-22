@@ -1,0 +1,59 @@
+{
+  "_comment": "Example data file for the LocalJSON plugin. Top level may be a list (as here), a {name: entry} map, or {\"cards\": [...]}. Each entry may use the friendly schema below or be a raw Scryfall card object (those are passed through untouched). Only 'name' is strictly required; everything else has sensible defaults.",
+  "cards": [
+    {
+      "name": "Lightning Bolt",
+      "set": "LEA",
+      "collector_number": "161",
+      "rarity": "common",
+      "mana_cost": "{R}",
+      "type_line": "Instant",
+      "oracle_text": "Lightning Bolt deals 3 damage to any target.",
+      "flavor_text": "The sparkmage shrieked, calling on the rage of the storms of his youth.",
+      "artist": "Christopher Rush"
+    },
+    {
+      "name": "Grizzly Bears",
+      "mana": "{1}{G}",
+      "type": "Creature — Bear",
+      "text": "",
+      "power": 2,
+      "toughness": 2,
+      "rarity": "common",
+      "set": "MTG"
+    },
+    {
+      "name": "Nissa's Pilgrimage",
+      "set": "PROXY",
+      "mana_cost": "{2}{G}",
+      "type_line": "Sorcery",
+      "oracle_text": "Search your library for up to two basic Forest cards, reveal them, and put them into your hand. Then shuffle.",
+      "flavor_text": "Where Nissa walks, the land remembers.",
+      "rarity": "rare",
+      "color_identity": ["G"]
+    },
+    {
+      "name": "Custom Transform Card",
+      "layout": "transform",
+      "set": "PROXY",
+      "rarity": "mythic",
+      "card_faces": [
+        {
+          "name": "Custom Transform Card",
+          "mana_cost": "{2}{R}",
+          "type_line": "Creature — Human Shaman",
+          "oracle_text": "When this creature enters, it deals 1 damage to any target.",
+          "power": 2,
+          "toughness": 2
+        },
+        {
+          "name": "Awakened Form",
+          "type_line": "Creature — Elemental",
+          "oracle_text": "Trample, haste.",
+          "power": 5,
+          "toughness": 4
+        }
+      ]
+    }
+  ]
+}

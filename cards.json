@@ -1,0 +1,125 @@
+{
+  "_comment": "The 10 original (ABUR) dual lands translated to French, styled for Alpha. French names are the official Foreign-Black-Border (FBB) printings. Each entry keeps the ENGLISH type_line/oracle_text (Proxyshop reads those to pick the land frame and colours) and adds French printed_name / printed_type_line / printed_text for display, with lang='fr'. Name your art 'Tundra.jpg' or 'Toundra.jpg' (or add a [LEA] tag) — both match. Note: Alpha had no set symbol or collector numbers; set 'Symbol Render Mode' to None in Proxyshop for an authentic look. Volcanic Island (Ile volcanique) was the ONLY land of this cycle never printed in Alpha — it debuted in Beta.",
+  "cards": [
+    {
+      "name": "Tundra",
+      "printed_name": "Toundra",
+      "lang": "fr",
+      "set": "LEA",
+      "rarity": "rare",
+      "type_line": "Land — Plains Island",
+      "printed_type_line": "Terrain : Plaine et île",
+      "oracle_text": "{T}: Add {W} or {U}.",
+      "printed_text": "{T} : Ajoutez {W} ou {U}.",
+      "color_identity": ["W", "U"]
+    },
+    {
+      "name": "Underground Sea",
+      "printed_name": "Mer souterraine",
+      "lang": "fr",
+      "set": "LEA",
+      "rarity": "rare",
+      "type_line": "Land — Island Swamp",
+      "printed_type_line": "Terrain : Île et marais",
+      "oracle_text": "{T}: Add {U} or {B}.",
+      "printed_text": "{T} : Ajoutez {U} ou {B}.",
+      "color_identity": ["U", "B"]
+    },
+    {
+      "name": "Badlands",
+      "printed_name": "Désolation",
+      "lang": "fr",
+      "set": "LEA",
+      "rarity": "rare",
+      "type_line": "Land — Swamp Mountain",
+      "printed_type_line": "Terrain : Marais et montagne",
+      "oracle_text": "{T}: Add {B} or {R}.",
+      "printed_text": "{T} : Ajoutez {B} ou {R}.",
+      "color_identity": ["B", "R"]
+    },
+    {
+      "name": "Taiga",
+      "printed_name": "Taïga",
+      "lang": "fr",
+      "set": "LEA",
+      "rarity": "rare",
+      "type_line": "Land — Mountain Forest",
+      "printed_type_line": "Terrain : Montagne et forêt",
+      "oracle_text": "{T}: Add {R} or {G}.",
+      "printed_text": "{T} : Ajoutez {R} ou {G}.",
+      "color_identity": ["R", "G"]
+    },
+    {
+      "name": "Savannah",
+      "printed_name": "Savane",
+      "lang": "fr",
+      "set": "LEA",
+      "rarity": "rare",
+      "type_line": "Land — Forest Plains",
+      "printed_type_line": "Terrain : Forêt et plaine",
+      "oracle_text": "{T}: Add {G} or {W}.",
+      "printed_text": "{T} : Ajoutez {G} ou {W}.",
+      "color_identity": ["G", "W"]
+    },
+    {
+      "name": "Scrubland",
+      "printed_name": "Brousse",
+      "lang": "fr",
+      "set": "LEA",
+      "rarity": "rare",
+      "type_line": "Land — Plains Swamp",
+      "printed_type_line": "Terrain : Plaine et marais",
+      "oracle_text": "{T}: Add {W} or {B}.",
+      "printed_text": "{T} : Ajoutez {W} ou {B}.",
+      "color_identity": ["W", "B"]
+    },
+    {
+      "name": "Volcanic Island",
+      "printed_name": "Île volcanique",
+      "lang": "fr",
+      "set": "LEB",
+      "rarity": "rare",
+      "type_line": "Land — Island Mountain",
+      "printed_type_line": "Terrain : Île et montagne",
+      "oracle_text": "{T}: Add {U} or {R}.",
+      "printed_text": "{T} : Ajoutez {U} ou {R}.",
+      "color_identity": ["U", "R"]
+    },
+    {
+      "name": "Bayou",
+      "printed_name": "Bayou",
+      "lang": "fr",
+      "set": "LEA",
+      "rarity": "rare",
+      "type_line": "Land — Swamp Forest",
+      "printed_type_line": "Terrain : Marais et forêt",
+      "oracle_text": "{T}: Add {B} or {G}.",
+      "printed_text": "{T} : Ajoutez {B} ou {G}.",
+      "color_identity": ["B", "G"]
+    },
+    {
+      "name": "Plateau",
+      "printed_name": "Plateau",
+      "lang": "fr",
+      "set": "LEA",
+      "rarity": "rare",
+      "type_line": "Land — Mountain Plains",
+      "printed_type_line": "Terrain : Montagne et plaine",
+      "oracle_text": "{T}: Add {R} or {W}.",
+      "printed_text": "{T} : Ajoutez {R} ou {W}.",
+      "color_identity": ["R", "W"]
+    },
+    {
+      "name": "Tropical Island",
+      "printed_name": "Île tropicale",
+      "lang": "fr",
+      "set": "LEA",
+      "rarity": "rare",
+      "type_line": "Land — Forest Island",
+      "printed_type_line": "Terrain : Forêt et île",
+      "oracle_text": "{T}: Add {G} or {U}.",
+      "printed_text": "{T} : Ajoutez {G} ou {U}.",
+      "color_identity": ["G", "U"]
+    }
+  ]
+}

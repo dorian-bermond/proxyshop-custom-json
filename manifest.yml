@@ -1,0 +1,17 @@
+###
+# * Plugin Details
+###
+
+PLUGIN:
+  name: 'LocalJSON'
+  author: 'Dorian'
+  desc: "Source card data from a local JSON file instead of (or before) the Scryfall API."
+  license: 'MPL-2.0'
+  requires: '^1.13.0'
+  version: '1.0.0'
+
+###
+# * Templates
+###
+# This plugin ships no templates of its own. It only changes where Proxyshop
+# gets its card *data* from. All existing templates keep working unchanged.

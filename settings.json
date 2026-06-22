@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "mode": "merge",
+  "data_file": "cards.json",
+  "match_set": true,
+  "match_number": true,
+  "log": true
+}
