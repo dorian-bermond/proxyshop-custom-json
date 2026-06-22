@@ -19,12 +19,13 @@ mode below. No core Proxyshop files are modified, so app updates won't clobber i
 
 1. Copy the `LocalJSON` folder into your Proxyshop `plugins/` directory:
    `Proxyshop/plugins/LocalJSON/`
-2. Launch Proxyshop. The console prints `[LocalJSON] Local JSON card-data source installed.`
-3. Put your cards in `plugins/LocalJSON/cards.json`, then render as usual (drop art in
+2. Put your cards in `plugins/LocalJSON/cards.json`, then render as usual (drop art in
    `art/`, **Render All** / **Render Target**). The art filename still drives the card
    name and the optional `[SET]` / `{num}` tags, exactly like normal Proxyshop.
+3. Launch Proxyshop and start rendering. The console prints `[LocalJSON] Loaded *X* card(s) from cards.json`
+ 
 
-Out of the box `cards.json` is empty, so nothing changes until you add cards.
+Out of the box `cards.json` contains the french version of the original dual lands for example purpose, so only these changes until you add cards.
 
 ## The option (settings.json)
 
